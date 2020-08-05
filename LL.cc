@@ -1,3 +1,9 @@
+/* Author: Julia Chung
+Spring 2020 Semester at Stevens Institute of Technology
+Linked List C++ program with functions of insert at head, insert at specific position, 
+remove, and display contents of list.
+*/ 
+
 #include <iostream>
 using namespace std;
 
