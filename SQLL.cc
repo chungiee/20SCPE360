@@ -1,3 +1,8 @@
+/* Author: Julia Chung
+Spring 2020 Semester at Stevens Institute of Technology
+Stacks, queues, and linked list C++ program with functions of push, pop, and display contents of list
+*/ 
+
 #include <iostream>
 using namespace std;
 
