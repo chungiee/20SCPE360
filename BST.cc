@@ -1,3 +1,7 @@
+/* Author: Julia Chung
+Spring 2020 Semester at Stevens Institute of Technology
+Binary Search Tree C++ program
+*/ 
 #include <iostream>
 using namespace std;
 
